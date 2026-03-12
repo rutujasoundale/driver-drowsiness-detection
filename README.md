@@ -87,7 +87,7 @@ driver-drowsiness-detection/
 └── LICENSE                    # optional license```
 
 ---
-
+```
 # ⚙️ Installation
 
 ### 1. Clone the repository

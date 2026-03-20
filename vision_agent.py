@@ -1,7 +1,6 @@
 import cv2
 from eye_detector import get_eye_landmarks
 from ear_calculator import calculate_ear
-
 class VisionAgent:
 
     def __init__(self):

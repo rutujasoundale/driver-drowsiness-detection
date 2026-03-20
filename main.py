@@ -9,7 +9,7 @@ face_mesh = mp_face_mesh.FaceMesh(
     max_num_faces=1,
     refine_landmarks=True
 )
-
+# Improved yawning detection logic
 cap = cv2.VideoCapture(0)
 
 sleep_counter = 0
